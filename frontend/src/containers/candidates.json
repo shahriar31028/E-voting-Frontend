@@ -1,0 +1,24 @@
+{
+    "candidates": [
+        {
+            "name": "Candidate 1",
+            "marka": "Marka",
+            "votes": 0
+        },
+        {
+            "name": "Candidate 2",
+            "marka": "Marka 2",
+            "votes": 0
+        },
+        {
+            "name": "Candidate 3",
+            "marka": "Marka 3",
+            "votes": 0
+        },
+        {
+            "name": "Candidate 4",
+            "marka": "Marka 4",
+            "votes": 0
+        }
+    ]
+}
